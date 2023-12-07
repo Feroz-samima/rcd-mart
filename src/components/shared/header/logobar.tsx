@@ -1,5 +1,5 @@
-import Icon from "./icon";
-import Logo from "./logo";
+import Icon from "../../custom/icon";
+import Logo from "../../custom/logo";
 
 const Logobar = () => {
   return (

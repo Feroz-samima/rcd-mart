@@ -1,5 +1,5 @@
 import SocialBar from "./Social-bar";
-import Logobar from "../../home/logobar";
+import Logobar from "../header/logobar";
 import Navbar from "./navbar";
 
 const Header = () => {

@@ -1,6 +1,6 @@
 import { Facebook, Instagram, Linkedin, LockIcon, Twitter } from "lucide-react";
-import Currency from "../../home/currency";
-import Language from "../../home/language";
+import Currency from "../../custom/currency";
+import Language from "../../custom/language";
 
 const SocialBar = () => {
   return (

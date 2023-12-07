@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Menu } from "lucide-react";
-import { CategoriesCard } from "../../home/categories-card";
-import Icon from "../../home/icon";
+import { CategoriesCard } from "../../custom/categories-card";
+import Icon from "../../custom/icon";
 
 export default function Navbar() {
   const [state, setState] = React.useState(false);
